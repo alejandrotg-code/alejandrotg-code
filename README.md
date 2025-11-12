@@ -65,7 +65,7 @@ ORDER BY prioridad;
 ## 🔄 Actualmente
 
 - 🔭 Construyendo proyectos personales con **Node.js** y **Express**
-- 🌱 Estudiando **PostgreSQL** y consultas SQL básicas
+- 🌱 Estudiando curso de especialización en IA y Big Data
 - 👀 Buscando oportunidades de trabajo junior o prácticas
 - 💬 Dispuesto a aprender de desarrolladores más experimentados
 - 📝 Documentando mi proceso de aprendizaje
@@ -73,7 +73,7 @@ ORDER BY prioridad;
 ## 📈 Mi viaje hasta ahora
 
 ```
-🎓 Técnico Superior DAM → 🎯 Curso de especialización en IA y Big Data → 📚 Node.js & Express → 🗄️ PostgreSQL → 🚀 Aplicando conocimientos
+🎓 Técnico Superior DAM  → 📚 Node.js & Express → 🗄️ PostgreSQL → 🚀 Aplicando conocimientos → 📚 Curso de especialización en IA y Big Data
 ```
 
 ## 💭 Mi mentalidad
