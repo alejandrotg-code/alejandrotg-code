@@ -73,7 +73,7 @@ ORDER BY prioridad;
 ## 📈 Mi viaje hasta ahora
 
 ```
-🎓 Técnico Superior DAM → 🎯 Especialización Backend → 📚 Node.js & Express → 🗄️ PostgreSQL → 🚀 Aplicando conocimientos
+🎓 Técnico Superior DAM → 🎯 Curso de especialización en IA y Big Data → 📚 Node.js & Express → 🗄️ PostgreSQL → 🚀 Aplicando conocimientos
 ```
 
 ## 💭 Mi mentalidad
