@@ -11,7 +11,7 @@ const alejandro = {
     nivel: "Junior Developer 🌱",
     ubicacion: "🌍 Aprendiendo desde casa",
     enfoque: "Backend Development",
-    estado: "Curso de especialización en IA y Big Data",
+    estado: "Cursanso una especialización en IA y Big Data",
     objetivos: "Crecer profesionalmente y aportar valor",
     filosofia: "Cada error es una oportunidad de aprendizaje"
 };
