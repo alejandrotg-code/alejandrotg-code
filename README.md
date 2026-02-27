@@ -1,59 +1,59 @@
-# ¡Hola! 👋 Soy Alejandro Tacoronte González
+# Hi there! 👋 I'm Alejandro Tacoronte González
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+%F0%9F%8C%B1;AI+%26+Big+Data+Enthusiast+%F0%9F%A4%96;Aprendiendo+y+creciendo+cada+d%C3%ADa;En+busca+de+mi+primera+oportunidad)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Junior+Backend+Developer+%F0%9F%8C%B1;AI+%26+Big+Data+Enthusiast+%F0%9F%A4%96;Learning+and+growing+every+day;Looking+for+my+first+opportunity)
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/alejandrotg-code)), un desarrollador backend junior apasionado por aprender y crear soluciones web. Estoy comenzando mi camino en el desarrollo y me encanta trabajar del lado del servidor con APIs y bases de datos. Actualmente ampliando mis conocimientos en **IA y Big Data**.
+I'm **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/alejandrotg-code)), a junior backend developer passionate about learning and building web solutions. I'm starting my journey in development and love working on the server side with APIs and databases. Currently expanding my knowledge in **AI and Big Data**.
 
 ```javascript
 const alejandro = {
-    nivel: "Junior Developer 🌱",
-    ubicacion: "🌍 Aprendiendo desde casa",
-    enfoque: ["Backend Development", "IA & Machine Learning"],
-    estado: "Cursando una especialización en IA y Big Data",
-    objetivos: "Crecer profesionalmente y aportar valor",
-    filosofia: "Cada error es una oportunidad de aprendizaje"
+    level: "Junior Developer 🌱",
+    location: "🌍 Learning from home",
+    focus: ["Backend Development", "AI & Machine Learning"],
+    status: "Taking a specialization course in AI and Big Data",
+    goals: "Grow professionally and add value",
+    philosophy: "Every mistake is a learning opportunity"
 };
 ```
 
-## 🗂️ Mis Proyectos
+## 🗂️ My Projects
 
-### 🎵 Clasificador de Géneros Musicales
-> Red neuronal entrenada para clasificar géneros musicales a partir de audio.
+### 🎵 Music Genre Classifier
+> Neural network trained to classify music genres from audio.
 
-[![GitHub](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/music-genre-classification-ann)
-[![Hugging Face](https://img.shields.io/badge/Demo%20en%20vivo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/alejandrotg-code/music-genre-classifier-demo)
+[![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/music-genre-classification-ann)
+[![Hugging Face](https://img.shields.io/badge/Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/alejandrotg-code/music-genre-classifier-demo)
 
-- 🧠 Modelo ANN entrenado y exportado en formato `.h5`
-- 🎧 Procesamiento de audio y extracción de características
-- 🚀 Demo desplegada en Hugging Face Spaces
-
----
-
-### 🐦 Análisis de Sentimiento en X (Twitter) con SVM
-> Clasificador de sentimientos en español usando Support Vector Machine.
-
-[![GitHub](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/nlp-sentiment-classifier-spanish)
-![Demo](https://img.shields.io/badge/Demo-En%20proceso...-orange?style=for-the-badge)
-
-- 📝 NLP en español con preprocesamiento de texto
-- ⚙️ Clasificación binaria de sentimientos con SVM
-- 🔄 Demo próximamente disponible
+- 🧠 ANN model trained and exported in `.h5` format
+- 🎧 Audio processing and feature extraction
+- 🚀 Demo deployed on Hugging Face Spaces
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+### 🐦 Sentiment Analysis on X (Twitter) with SVM
+> Spanish sentiment classifier using Support Vector Machine.
+
+[![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/nlp-sentiment-classifier-spanish)
+![Demo](https://img.shields.io/badge/Demo-In%20progress...-orange?style=for-the-badge)
+
+- 📝 NLP in Spanish with text preprocessing
+- ⚙️ Binary sentiment classification with SVM
+- 🔄 Demo coming soon
+
+---
+
+## 🛠️ Technologies I'm Learning
 
 ### 💻 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗃️ Base de Datos
+### 🗃️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Inteligencia Artificial & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -61,80 +61,80 @@ const alejandro = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🧰 Herramientas
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alejandrotg-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrotg-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotg-code&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrotg-code&layout=compact&theme=tokyonight&hide_border=true)
 
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=alejandrotg-code&theme=tokyonight&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandrotg-code&theme=tokyonight&hide_border=true)
 
-## 🌱 Mi proceso de aprendizaje
+## 🌱 My Learning Process
 
 ```sql
-SELECT habilidad, estado FROM mi_desarrollo 
-ORDER BY prioridad;
+SELECT skill, status FROM my_development 
+ORDER BY priority;
 ```
 
 **Backend:**
-- 📚 **Node.js**: Aprendiendo los fundamentos y mejores prácticas
-- ⚡ **Express.js**: Creando mis primeras APIs REST
-- 🗄️ **PostgreSQL**: Entendiendo bases de datos relacionales
-- 🔧 **APIs REST**: Practicando endpoints básicos
+- 📚 **Node.js**: Learning the fundamentals and best practices
+- ⚡ **Express.js**: Building my first REST APIs
+- 🗄️ **PostgreSQL**: Understanding relational databases
+- 🔧 **REST APIs**: Practicing basic endpoints
 
-**IA & Machine Learning:**
-- 🧠 **TensorFlow**: Explorando redes neuronales y deep learning
-- 🔥 **PyTorch**: Aprendiendo frameworks de ML modernos
-- 📊 **Scikit-learn**: Practicando algoritmos de ML clásicos
-- 🐼 **Pandas & NumPy**: Manipulación y análisis de datos
+**AI & Machine Learning:**
+- 🧠 **TensorFlow**: Exploring neural networks and deep learning
+- 🔥 **PyTorch**: Learning modern ML frameworks
+- 📊 **Scikit-learn**: Practicing classic ML algorithms
+- 🐼 **Pandas & NumPy**: Data manipulation and analysis
 
-## 🎯 Mis objetivos
+## 🎯 My Goals
 
-- 💼 Conseguir mi primera oportunidad laboral como desarrollador backend o en IA
-- 🏗️ Crear mis primeros proyectos para mostrar en mi portafolio
-- 📚 Continuar aprendiendo y mejorando mis habilidades técnicas
-- 🤝 Conectar con otros desarrolladores y mentores
-- 🌟 Contribuir a proyectos open source
+- 💼 Land my first job as a backend developer or in AI
+- 🏗️ Build my first projects to showcase in my portfolio
+- 📚 Keep learning and improving my technical skills
+- 🤝 Connect with other developers and mentors
+- 🌟 Contribute to open source projects
 
-## 🔄 Actualmente
+## 🔄 Currently
 
-- 🔭 Construyendo proyectos personales con **Node.js** y **Express**
-- 🤖 Aprendiendo **TensorFlow**, **PyTorch** y **Scikit-learn**
-- 🌱 Estudiando curso de especialización en **IA y Big Data**
-- 👀 Buscando oportunidades de trabajo junior o prácticas
-- 💬 Dispuesto a aprender de desarrolladores más experimentados
+- 🔭 Building personal projects with **Node.js** and **Express**
+- 🤖 Learning **TensorFlow**, **PyTorch**, and **Scikit-learn**
+- 🌱 Studying a specialization course in **AI and Big Data**
+- 👀 Looking for junior job opportunities or internships
+- 💬 Eager to learn from more experienced developers
 
-## 📈 Mi viaje hasta ahora
+## 📈 My Journey So Far
 
 ```
-🎓 Técnico Superior DAM
+🎓 Higher Technician in DAM
     → 📚 Node.js & Express
         → 🗄️ PostgreSQL
-            → 🤖 IA: TensorFlow, PyTorch, Scikit-learn
-                → 🚀 Aplicando conocimientos
+            → 🤖 AI: TensorFlow, PyTorch, Scikit-learn
+                → 🚀 Applying knowledge
 ```
 
-## 💭 Mi mentalidad
+## 💭 My Mindset
 
-> *"No sé todo, pero estoy dispuesto a aprenderlo. Cada línea de código es un paso más hacia convertirme en el desarrollador que quiero ser."*
+> *"I don't know everything, but I'm willing to learn it. Every line of code is one step closer to becoming the developer I want to be."*
 
-## 🤝 ¡Me encantaría conectar!
+## 🤝 Let's Connect!
 
-¿Eres un desarrollador senior dispuesto a dar consejos? ¿Conoces oportunidades para developers junior? ¿Quieres colaborar en algún proyecto de aprendizaje?
+Are you a senior developer willing to share advice? Do you know of opportunities for junior developers? Want to collaborate on a learning project?
 
-[![GitHub followers](https://img.shields.io/github/followers/alejandrotg-code?label=Sígueme&style=social)](https://github.com/alejandrotg-code)
+[![GitHub followers](https://img.shields.io/github/followers/alejandrotg-code?label=Follow+me&style=social)](https://github.com/alejandrotg-code)
 
-📫 **¡Estoy abierto a oportunidades, consejos y colaboraciones!**
+📫 **I'm open to opportunities, advice, and collaborations!**
 
-⭐ **Próximamente:** Subiré mis primeros proyectos de práctica
+⭐ **Coming soon:** I'll be uploading my first practice projects
 
 ---
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=alejandrotg-code&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=alejandrotg-code&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**¡Gracias por visitar mi perfil! Espero poder mostrar pronto mis primeros proyectos 🚀**
+**Thanks for visiting my profile! Hope to show you my first projects soon 🚀**
