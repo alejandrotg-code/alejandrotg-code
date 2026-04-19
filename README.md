@@ -39,17 +39,6 @@ REST API for product management built with Spring Boot and JPA.
 - ✅ H2 in-memory database
 - ✅ GET, POST, PUT, DELETE endpoints
 
----
-
-### 🎵 Music Genre Classifier
-Neural network trained to classify music genres from audio.
-
-[![GitHub](https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/music-genre-classification-ann)
-[![Hugging Face](https://img.shields.io/badge/Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/alejandrotg-code/music-genre-classifier-demo)
-
-- 🧠 ANN model trained and exported in `.h5` format
-- 🎧 Audio processing and feature extraction
-- 🚀 Demo deployed on Hugging Face Spaces
 
 ---
 
