@@ -20,8 +20,9 @@ Soy **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/al
 IA para clasificar géneros músicales con un espectograma
 
 [![Código](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/genre-classification)
+[![Demo](https://img.shields.io/badge/Demo-100000?style=for-the-badge&logo=streamlit&logoColor=white)](https://classification-music.alejandrotg.es)
 - 🦾 Entrenamiento del modelo usando Tensorflow
-- 💻 Demo con Python PyQt6 (desarrollando space huggingface)
+- 💻 Demo con Streamlit
 - 🎼 Preprocesamiento (convertir audio a imagen)
 
 ---
