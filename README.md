@@ -35,8 +35,6 @@ Plataforma fullstack con recomendaciones personalizadas basadas en valoraciones 
 - 🎯 Algoritmo de recomendación basado en valoraciones y géneros del usuario
 - 🌐 Integración con la API de TMDB
 - 🗄️ PostgreSQL con JPA y relaciones ManyToMany
-- ⚛️ Frontend en proceso
-
 
 ---
 
