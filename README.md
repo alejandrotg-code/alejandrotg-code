@@ -16,8 +16,21 @@ Soy **Alejandro Tacoronte González** ([@alejandrotg-code](https://github.com/al
 
 ## 🗂️ Mis Proyectos
 
+### 🎮 Game Recommended AI — Sistema de Recomendación de Videojuegos con NLP
+Plataforma Full-Stack que analiza el sentimiento real de las reseñas en español de Steam mediante Machine Learning antes de realizar una compra.
+
+[![Código](https://img.shields.io/badge/Código--Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/game-recommended-backend)
+[![Código](https://img.shields.io/badge/Código--Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/game-recommended-frontend)
+[![Demo](https://img.shields.io/badge/Demo-100000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://game-recommended.alejandrotg.es)
+
+- 🤖 **Core & ML:** Clasificación automatizada de textos en español procesados dinámicamente con un modelo **Naive Bayes (NLP)**.
+- ⚡ **Backend asíncrono:** Desarrollado con **FastAPI** e integrado con la API oficial de Valve / Steam.
+- 🌐 **DevOps & Despliegue:** Alojado en un **VPS Linux (Ubuntu)** propio con **Nginx**.
+
+---
+
 ### 🎶 Clasificador de Géneros Musicales con IA
-IA para clasificar géneros músicales con un espectograma
+IA para clasificar géneros musicales utilizando el espectrograma del audio.
 
 [![Código](https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrotg-code/genre-classification)
 [![Demo](https://img.shields.io/badge/Demo-100000?style=for-the-badge&logo=streamlit&logoColor=white)](https://classification-music.alejandrotg.es)
